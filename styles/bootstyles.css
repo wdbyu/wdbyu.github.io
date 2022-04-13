@@ -1,0 +1,67 @@
+/* Dakota Karren 12/14/2021*/
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+.common {
+  background-color: navy;
+  border: solid 2px black;
+  position: absolute;
+  z-index: -1;
+}
+
+.header {
+  left: 5px;
+  right: 5px;
+  top: 5px;
+  height: 50px;
+  color: white;
+  text-align: left;
+  font-size: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer {
+  left: 1px;
+  right: 1px;
+  bottom: 0px;
+  height: 50px;
+  text-align: center;
+  position: relative;
+  color: white;
+  font-family: sans-serif;
+}
+
+.mainbody {
+  left: 5px;
+  right: 5px;
+  top: 64px;
+  bottom: 64px;
+  background-color: white;
+  border: solid 2px black;
+}
+
+.links {
+  color: white;
+  font-size: 30px;
+  text-align: right;
+  top: 20px;
+  left: 5px;
+  right: 5px;
+  z-index: 1;
+}
+
+.link {
+  color: blue;
+}
+
+.h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}

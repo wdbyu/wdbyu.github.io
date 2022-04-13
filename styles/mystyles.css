@@ -1,0 +1,41 @@
+/* Dakota Karren 12/14/2021*/
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.hey {
+  text-align: left;
+  offset-position: 50px;
+  left: 5px;
+  bottom: 10px;
+}
+
+.resumeheader {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.backtotop {
+  text-decoration: underline;
+}
+
+.white {
+  color: rgba(255, 255, 255, 0.911);
+}
+
+.link {
+  color: teal;
+}
+.makeitwhite {
+  color: white;
+}
+
+.bigtext {
+  font-size: 40px;
+}
+
+.linkedin {
+  text-decoration: none;
+  color: teal;
+}
